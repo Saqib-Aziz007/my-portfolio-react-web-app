@@ -27,7 +27,7 @@ import { socialsData } from "../../data/socialsData";
 import { contactsData } from "../../data/contactsData";
 import "./Contacts.css";
 
-import { db } from "../../App";
+import { db } from "../../firebase";
 import { collection, addDoc, Timestamp } from "firebase/firestore";
 
 function Contacts() {

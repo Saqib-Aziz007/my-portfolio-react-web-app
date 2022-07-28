@@ -32,7 +32,8 @@ function Main() {
       <Education />
       <Projects />
       <Achievement />
-      {/* <Blog /> */}
+      <Experience />
+      <Testimonials />
       <Services />
       <Contacts />
       {/* <Footer /> */}

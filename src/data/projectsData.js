@@ -17,7 +17,7 @@ export const projectsData = [
     id: 1,
     projectName: "GigMi:Contractor Revolution",
     projectDesc:
-      "GigMi provides Contractors and Tradesmen the tools necessary to exchange revenue for services rendered and/or sought.Payments methods are implemented in app. Notifications implemented through Firebase.",
+      "GigMi provides Contractors and Tradesmen the tools to exchange revenue for services rendered and/or sought. Payment methods are implemented in-app. Notifications are implemented through Firebase. Available on both the Play store and App store.",
     tags: ["React Native", "Nest", "Javascript", "Redux", "Firebase"],
     // code: "https://github.com/sreerag-rajan/historythroughmovies",
     demo: "https://play.google.com/store/search?q=Gigmi&c=apps",
@@ -28,7 +28,7 @@ export const projectsData = [
     id: 2,
     projectName: "KeyKi",
     projectDesc:
-      "Keyki is an Online Shopping Platform introduced in Pakistan that allows you to Shop Millions of Products with Best Online Shopping Discounts. Search and Explore products in Video and images display, shop by category, read customer reviews(written and video reviews), Add products in your cart or buy them instantly and check status of your orders with Keyki Order tracking Feature.",
+      "Keyki is an Online Shopping Platform introduced in Pakistan that allows you to Shop for Millions of Products with the Best Online Shopping Discounts. Search and Explore products in Video and images display, shop by category, read customer reviews(written and video reviews), Add products to your cart or buy them instantly and check the status of your orders with the Keyki Order tracking Feature.",
     tags: ["React", "Nest", "Javascript", "Redux", "Firebase"],
     // code: "https://github.com/sreerag-rajan/sportsjam-clone",
     demo: "https://play.google.com/store/apps/details?id=com.keykii&hl=en&gl=US",
@@ -38,7 +38,7 @@ export const projectsData = [
     id: 3,
     projectName: "BMI Calculator-Flutter App",
     projectDesc:
-      "This project is developed in Flutter.It simple a Body Mass Index Calculator consisting on two screen one for user to input data and other screen shows the BMI(Body Mass Index) and a beautiful suggestion.",
+      "This project is developed in Flutter. It is simply a Body Mass Index Calculator consisting of two screens: one for users to input data and the other screen shows the BMI(Body Mass Index) and a beautiful suggestion.",
     tags: ["Flutter", "Material UI"],
     code: "https://github.com/Saqib-Aziz007/bmi_calculator/tree/master",
     demo: "https://educative-clone.vercel.app/",
@@ -48,7 +48,7 @@ export const projectsData = [
     id: 4,
     projectName: "Clima-Flutter App",
     projectDesc:
-      "Simple temperature fetching app for current location and desired city with developed in flutter",
+      "Simple temperature fetching app for current location and desired city developed in Flutter.",
     tags: ["Flutter", "Rest API", "Material UI"],
     code: "https://github.com/Saqib-Aziz007/Clima",
     // demo: "https://reliance-digital-clone.herokuapp.com/",

@@ -1,6 +1,6 @@
 /* eslint-disable */
 import { BiShoppingBag, BiPencil } from "react-icons/bi";
-import { BsCodeSlash, BsClipboardData } from "react-icons/bs";
+import { BsCodeSlash, BsClipboardData, BsFileCode } from "react-icons/bs";
 import { AiOutlineMail, AiFillAudio } from "react-icons/ai";
 import {
   FaInternetExplorer,
@@ -42,12 +42,12 @@ export const servicesData = [
   {
     id: 6,
     title: "Mobile Application Development",
-    icon: <BsCodeSlash />,
+    icon: <BsFileCode />,
   },
   {
     id: 7,
-    title: "Photography",
-    icon: <FaCameraRetro />,
+    title: "Web Development",
+    icon: <BsCodeSlash />,
   },
   // {
   //     id: 8,

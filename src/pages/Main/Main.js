@@ -3,12 +3,12 @@ import { Helmet } from "react-helmet";
 
 import {
   Navbar,
-  Footer,
+  // Footer,
   Landing,
   About,
   Skills,
   Testimonials,
-  Blog,
+  // Blog,
   Education,
   Experience,
   Contacts,
@@ -22,7 +22,7 @@ function Main() {
   return (
     <div>
       <Helmet>
-        <title>{headerData.name} - Porfolio</title>
+        <title>{headerData.name} - Portfolio</title>
       </Helmet>
 
       <Navbar />
@@ -32,8 +32,10 @@ function Main() {
       <Education />
       <Projects />
       <Achievement />
-      {/* <Blog /> */}
       <Services />
+      <Experience />
+      <Testimonials />
+      {/* <Blog /> */}
       <Contacts />
       {/* <Footer /> */}
     </div>

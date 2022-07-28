@@ -1,7 +1,6 @@
 {
   "hosting": {
-    "site": "muhammadsaqibportfolio",
-    "public": "build",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
